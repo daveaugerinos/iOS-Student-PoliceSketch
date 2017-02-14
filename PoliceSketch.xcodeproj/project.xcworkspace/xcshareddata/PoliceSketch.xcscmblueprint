@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "517CEBB3B38AF8D49B912B914B8B407463D65AB2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "517CEBB3B38AF8D49B912B914B8B407463D65AB2" : 0,
+    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "32FD1212-035E-4184-912E-53F4D2C76D3D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "517CEBB3B38AF8D49B912B914B8B407463D65AB2" : "iOS-Student-PoliceSketch\/",
+    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PoliceSketch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PoliceSketch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dannylm\/PycharmProjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Student-PoliceSketch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "517CEBB3B38AF8D49B912B914B8B407463D65AB2"
+    }
+  ]
+}
